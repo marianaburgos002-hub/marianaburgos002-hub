@@ -1,15 +1,11 @@
+### Hi there 👋 I'm Mariana Isabel Burgos Moreno
 
-<h1 align="center">Hi 👋, I'm Mariana Burgos</h1>
-<h3 align="center">Data Analyst with a strong background in law, specializing in data extraction using SQL and Python, and data modeling with Power BI and advanced Excel. My competitive advantage lies in critical thinking, effective communication, and adaptability, allowing me to translate complex data into high-impact business solutions for the Legal Tech sector and process optimization.</h3>
+Data Analyst with a unique legal background, specialized in data extraction and transformation with SQL & Python, and data modeling with Power BI & advanced Excel.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marianaburgos002&label=Profile%20views&color=0e75b6&style=flat" alt="marianaburgos002" /> </p>
-
-- 🌱 I’m currently learning **Business Intelligence**
-
-- 💬 Ask me about **transforming raw data into strategic business decisions**
-
+- 🔭 Working on Customer Segmentation - ConectaTel
+- 🌱 Learning Advanced Data Storytelling
+- ⚖️ From Legal to Data
 - 📫 How to reach me **Linkendin:https://www.linkedin.com/in/mariana-burgos-m-/ | Email: mariana.burgos002@gmail.com**
-
 - ⚡ Fun fact **I think I am lawyer who fused legal codes with Python code**
 
 <h3 align="left">Connect with me:</h3>
